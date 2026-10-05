@@ -1,5 +1,5 @@
 [tool]
-id = "com.thelightphone.light-tool-ci-fixture"
+id = "com.thelightphone.tool_ci_fixture"
 label = "Light Tool CI Fixture"
 versionCode = 1
 versionName = "1.0.0"
