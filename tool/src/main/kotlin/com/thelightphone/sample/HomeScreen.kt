@@ -137,3 +137,5 @@ class HomeScreen(sealedActivity: SealedLightActivity) : LightScreen<Unit, HomeSc
         }
     }
 }
+
+val compileError: Int = "not an int"
