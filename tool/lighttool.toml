@@ -1,9 +1,9 @@
 [tool]
 id = "com.thelightphone.tool_ci_fixture"
 label = "Light Tool CI Fixture"
-versionCode = 1
+versionCode = 1000
 versionName = "1.0.0"
-permissions = ["android.permission.INTERNET"]
+permissions = ["android.permission.INTERNET", "android.permission.READ_CONTACTS"]
 capabilities = []
 # change if you run this on an LP3!
 serverPackage = "com.lightos"
