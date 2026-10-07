@@ -1,7 +1,7 @@
 [tool]
-id = "com.thelightphone.tool_ci_fixture"
+id = "com.thelightphone.tool_ci_fixture_wrong"
 label = "Light Tool CI Fixture"
-versionCode = 1
+versionCode = 1000
 versionName = "1.0.0"
 permissions = ["android.permission.INTERNET"]
 capabilities = []
