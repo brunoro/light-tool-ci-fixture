@@ -75,6 +75,7 @@ kotlin {
 
 dependencies {
     implementation(project(":sdk:client"))
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
     testImplementation(libs.kotlin.test)
     ksp(libs.androidx.room.compiler)
 }
